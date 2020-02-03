@@ -1,0 +1,6 @@
+name = "IArrays"
+uuid = "983b5517-4b3d-401f-b0c0-39e12e41dc23"
+version = "0.1.0"
+
+[deps]
+ZygoteRules = "700de1a5-db45-46bc-99cf-38207098b444"
